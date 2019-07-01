@@ -1,2 +1,1 @@
-# my-hometown
-first ADA exercise
+ADA weekly Exercises
